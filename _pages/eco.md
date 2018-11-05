@@ -13,4 +13,6 @@ published: true
 ## Indictateurs du moment
 
 ## Les comités de ce pôle
+
+
 [modifier la page](https://github.com/edacook/la-cagette.github.io/edit/master/_posts/2018-10-5-Pole-Magasin.md)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pôle Magasin
+published: true
 ---
 
 ## Wanted ! 
@@ -9,6 +10,4 @@ title: Pôle Magasin
 
 ## Indictateurs du moment
 
-## Les comités de ce pôle
-
-
+## Les com[ités de ce pôle](git@github.com:la-cagette/la-cagette.github.io.git)

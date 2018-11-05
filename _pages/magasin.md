@@ -2,6 +2,7 @@
 layout: page
 title: Pôle Magasin
 permalink: /magasin/
+published: true
 ---
 ## Description du pôle 
 
@@ -13,5 +14,4 @@ permalink: /magasin/
 
 ## Les comités de ce pôle
 
-Pour modifier ces informations : https://github.com/la-cagette/la-cagette.github.io/blob/master/magasin.md
-
+Pour modifier ces informations : [modifier !](https://github.com/la-cagette/la-cagette.github.io/blob/master/magasin.md)

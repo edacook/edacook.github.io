@@ -7,6 +7,8 @@ published: true
 
 ## Description du comité
 
+Il s'agit du pôle chargé de l'approvisionement du magasin.
+
 ## Wanted ! 
 
 ## Priotrités du moment

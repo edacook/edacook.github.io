@@ -84,14 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - site
-  - DS_Store
-  - jekyll
-  - jekyll-metadata
-  - bundle
-  - sass-cache
-  - node_modules
-  - package.json
+ 
 
 prose:
   rooturl: ''
@@ -103,6 +96,15 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    _ site
+    - DS_Store
+    - jekyll
+    - jekyll-metadata
+    - bundle
+    - sass-cache
+    - node_modules
+    - package.json
+    
   metadata:
     _posts:
       - name: "layout"

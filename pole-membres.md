@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pôle Membres
-permalink: /pole-membres/
+permalink: /membres/
 ---
 
 ## Wanted ! 

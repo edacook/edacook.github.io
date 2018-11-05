@@ -2,7 +2,10 @@
 layout: page
 title: Pôle Membres
 permalink: /membres/
+published: true
 ---
+
+## Description du comité
 
 ## Wanted ! 
 
@@ -12,4 +15,4 @@ permalink: /membres/
 
 ## Les comités de ce pôle
 
-[email@domain.com](mailto:email@domain.com)
+Pour modifier cette page : [Modifier !](https://github.com/edacook/edacook.github.io/blob/master/membres.md)

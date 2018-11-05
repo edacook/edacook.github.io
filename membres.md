@@ -15,4 +15,4 @@ published: true
 
 ## Les comités de ce pôle
 
-Pour modifier cette page : [Modifier !](https://github.com/edacook/edacook.github.io/blob/master/membres.md)
+Pour modifier cette page : [Modifier !](https://prose.io/#edacook/edacook.github.io/edit/master/membres.md)

@@ -11,6 +11,8 @@ Il s'agit du pôle chargé de l'approvisionement du magasin.
 
 ## Wanted ! 
 
+![]({{site.baseurl}}/media/SAM_0712.JPG)
+
 ## Priotrités du moment
 
 ## Indictateurs du moment
